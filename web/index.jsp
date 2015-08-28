@@ -11,6 +11,8 @@
     <title></title>
   </head>
   <body>
-
+<%
+    out.print("123");
+%>
   </body>
 </html>
